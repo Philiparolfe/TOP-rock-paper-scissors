@@ -2,7 +2,6 @@
 const playerSelections = document.querySelectorAll('button')
 const playerSelectionDisplay = document.getElementById('player-pick')
 const computerSelectionDisplay = document.getElementById('computer-pick')
-const lose = document.getElementById('lose')
 const score = document.getElementById('score')
 
 let options = ['👊', '👋', '✌️']
